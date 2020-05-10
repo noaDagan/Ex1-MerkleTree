@@ -1,4 +1,3 @@
-# Nofar Bar-Zakai, 205643638, Noa Dagan, 311302137
 import hashlib
 
 class Node():
